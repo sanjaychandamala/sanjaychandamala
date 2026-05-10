@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sanjay Chandamala 👋
+# 🚀 Hi, I'm Sanjay Chandamala 👋
 
 ### Senior Gen AI / ML Engineer • Data Scientist • Cloud AI Engineer
 
@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/Agentic%20AI-Architect-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cloud%20AI-AWS%20%7C%20Azure%20%7C%20GCP-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MLOps-Production%20Scale-red?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjaychandamala&theme=algolia&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -201,31 +197,17 @@ Built an enterprise healthcare AI platform using:
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjaychandamala&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaychandamala&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaychandamala&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandamala-sanjay-reddy-ba3b8932/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:sanjaychandamala93@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-sanjaychandamala93%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sanjaychandamala93@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/sanjaychandamala)
+[![Phone](https://img.shields.io/badge/Phone-4696079952-success?style=for-the-badge&logo=googlemessages)](tel:4696079952)
+
+[![GitHub](https://img.shields.io/badge/GitHub-sanjaychandamala-black?style=for-the-badge&logo=github)](https://github.com/sanjaychandamala)
 
 </div>
 
