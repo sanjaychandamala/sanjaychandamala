@@ -1,92 +1,225 @@
-# Hi, I'm Sanjay Chandamala 👋
+<div align="center">
 
-## Senior Gen AI / ML Engineer | Data Scientist | Cloud AI Engineer
+# 🚀 Hi, I'm Sanjay Chandamala 👋
 
-I build enterprise-scale **Generative AI**, **Machine Learning**, **RAG**, **Agentic AI**, and **Data Engineering** platforms across Healthcare, Financial Services, Government, and Travel domains.
+### Senior Gen AI / ML Engineer • Data Scientist • Cloud AI Engineer
 
-With 12+ years of experience, I specialize in designing production-grade AI systems using **LLMs, LangChain, LangGraph, Vector Databases, MLOps, Cloud Platforms, Microservices, Kubernetes, and Distributed Data Pipelines**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;Agentic+AI+Architect;RAG+%26+LLM+Specialist;Cloud+AI+%26+Data+Engineering+Expert;Building+Production-Grade+Enterprise+AI+Platforms" />
 
----
+<br/>
 
-## 🚀 What I Do
+<img src="https://img.shields.io/badge/Generative%20AI-Expert-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-Architect-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud%20AI-AWS%20%7C%20Azure%20%7C%20GCP-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MLOps-Production%20Scale-red?style=for-the-badge" />
 
-- Build enterprise **Generative AI / LLM applications**
-- Design **RAG and Agentic AI architectures**
-- Develop scalable **ML and Deep Learning models**
-- Deploy production AI systems using **MLOps / LLMOps**
-- Build cloud-native platforms on **AWS, Azure, and GCP**
-- Create distributed data pipelines using **Spark, Kafka, Airflow, and Databricks**
-- Develop backend AI microservices using **Python, FastAPI, Java Spring Boot, and Node.js**
-- Design modern AI dashboards and copilot interfaces using **React.js**
+<br/><br/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7" />
 
-## 🧠 Core Expertise
-
-### Generative AI & LLMs
-`OpenAI` `Azure OpenAI` `Amazon Bedrock` `Google Vertex AI` `Claude` `Gemini` `Llama`  
-`LangChain` `LangGraph` `LlamaIndex` `CrewAI` `AutoGen` `Semantic Kernel`  
-`RAG` `Agentic AI` `Multi-Agent Systems` `Prompt Engineering` `Function Calling` `MCP`
-
-### Vector Databases & Retrieval
-`Pinecone` `Milvus` `FAISS` `ChromaDB` `Hybrid Search` `Semantic Search` `Redis`
-
-### Machine Learning & Deep Learning
-`TensorFlow` `PyTorch` `Scikit-learn` `XGBoost` `Random Forest` `LSTM` `CNN`  
-`NLP` `Time-Series Forecasting` `Anomaly Detection` `Reinforcement Learning`
-
-### Data Engineering & Streaming
-`Apache Spark` `PySpark` `Databricks` `Kafka` `Flink` `Airflow` `dbt`  
-`Delta Lake` `BigQuery` `Snowflake` `Redshift` `AWS Glue`
-
-### Cloud & MLOps
-`AWS` `Azure` `GCP` `SageMaker` `Azure ML` `Vertex AI`  
-`MLflow` `Kubeflow` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Jenkins`
-
-### Observability & Evaluation
-`Langfuse` `Ragas` `TruLens` `Prometheus` `Grafana` `OpenTelemetry` `ELK Stack`
+</div>
 
 ---
 
-## 🏥 Featured Enterprise AI Work
+# 🌌 About Me
 
-### Clinical Generative AI Knowledge Platform
-Built an enterprise healthcare AI platform using **RAG, LangChain, Azure OpenAI, GPT-4, Pinecone, ChromaDB, FastAPI, Spark, Databricks, BigQuery, Kubernetes, and LangGraph**.
+💡 I build enterprise-scale **Generative AI**, **Machine Learning**, **RAG**, **Agentic AI**, and **Data Engineering** platforms across Healthcare, Financial Services, Government, and Travel domains.
 
-Key capabilities included:
+⚡ Specialized in building production-grade AI systems using:
 
-- Semantic search across clinical repositories
-- FHIR and HL7-based data integration
-- AI copilots for clinical workflows
-- Multi-agent orchestration using LangGraph
-- Vector search optimization and Redis caching
-- LLM evaluation using Langfuse, Ragas, and TruLens
-- Production deployment using Docker, Kubernetes, and CI/CD
+- **LLMs & Agentic AI**
+- **LangChain / LangGraph**
+- **Vector Databases**
+- **Distributed AI Systems**
+- **MLOps / LLMOps**
+- **Kubernetes & Cloud-Native Architectures**
+- **Spark / Kafka / Databricks Pipelines**
 
 ---
 
-## 💼 Experience Snapshot
+# 🔥 Current Focus
 
-| Domain | Role Focus |
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Building
+- Enterprise GenAI Platforms
+- Multi-Agent AI Systems
+- AI Copilots
+- Clinical RAG Applications
+- Distributed ML Platforms
+
+</td>
+
+<td width="50%">
+
+### 🌱 Exploring
+- MCP Servers
+- Autonomous Agents
+- AI Governance
+- Low-Latency Inference
+- Reinforcement Learning
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 AI & Engineering Expertise
+
+<div align="center">
+
+## 🤖 Generative AI & LLMs
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,gcp,azure,docker,kubernetes,react,nodejs,java,git" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenAI-GPT--4-black?style=for-the-badge&logo=openai" />
+<img src="https://img.shields.io/badge/Claude-Anthropic-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge&logo=google" />
+<img src="https://img.shields.io/badge/LangChain-AgenticAI-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-MultiAgent-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LlamaIndex-RAG-red?style=for-the-badge" />
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+## 👨‍💻 Languages & Frameworks
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,fastapi,spring,django,flask,html,css" />
+</p>
+
+---
+
+## 🤖 AI / ML / GenAI
+
+<p align="left">
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-black?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)
+![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-black?style=for-the-badge&logo=scikitlearn)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?style=for-the-badge&logo=huggingface)
+
+</p>
+
+---
+
+## 📊 Data Engineering & Streaming
+
+<p align="left">
+
+![Spark](https://img.shields.io/badge/-ApacheSpark-black?style=for-the-badge&logo=apachespark)
+![Databricks](https://img.shields.io/badge/-Databricks-black?style=for-the-badge&logo=databricks)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=for-the-badge&logo=apachekafka)
+![Airflow](https://img.shields.io/badge/-Airflow-black?style=for-the-badge&logo=apacheairflow)
+![dbt](https://img.shields.io/badge/-dbt-black?style=for-the-badge&logo=dbt)
+![Snowflake](https://img.shields.io/badge/-Snowflake-black?style=for-the-badge&logo=snowflake)
+![BigQuery](https://img.shields.io/badge/-BigQuery-black?style=for-the-badge&logo=googlebigquery)
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+
+![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-black?style=for-the-badge&logo=microsoftazure)
+![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-black?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=for-the-badge&logo=terraform)
+![GitHubActions](https://img.shields.io/badge/-GitHubActions-black?style=for-the-badge&logo=githubactions)
+
+</p>
+
+---
+
+# 🏥 Featured Enterprise AI Work
+
+## 🧬 Clinical Generative AI Knowledge Platform
+
+Built an enterprise healthcare AI platform using:
+
+- 🔹 RAG Architectures
+- 🔹 LangChain & LangGraph
+- 🔹 GPT-4 & Azure OpenAI
+- 🔹 Pinecone & ChromaDB
+- 🔹 Spark / Databricks
+- 🔹 BigQuery & Kubernetes
+- 🔹 FastAPI Microservices
+- 🔹 Multi-Agent Orchestration
+
+### ✨ Key Capabilities
+
+✅ Semantic Search Across Clinical Repositories  
+✅ FHIR & HL7 Integration  
+✅ AI Copilots for Clinical Workflows  
+✅ Vector Search Optimization  
+✅ Redis Caching for Low Latency  
+✅ LLM Evaluation with Langfuse / Ragas / TruLens  
+✅ Production CI/CD Deployments  
+
+---
+
+# 💼 Industry Experience
+
+| 🏢 Domain | 🚀 Expertise |
 |---|---|
-| Healthcare | Gen AI, RAG, Clinical AI Copilots, Predictive Analytics |
-| Financial Services | Mortgage Risk Modeling, Credit Risk, ML Platforms |
-| Government | Forecasting, Budget Analytics, Anomaly Detection |
-| Travel | Data Engineering, Demand Forecasting, Recommendation Systems |
-| Pharma | Python Full Stack Development, Analytics Automation |
+| 🏥 Healthcare | Gen AI, RAG, Clinical AI Copilots |
+| 💰 Financial Services | Mortgage Risk Modeling, ML Platforms |
+| 🏛️ Government | Forecasting, Fraud Detection, Analytics |
+| ✈️ Travel | Recommendation Systems, Forecasting |
+| 💊 Pharma | Full Stack Development, Automation |
 
 ---
 
-## 🛠️ Tech Stack
+# 📈 GitHub Analytics
 
-```text
-Languages: Python, Java, JavaScript, TypeScript, SQL, Scala, R
-AI/ML: TensorFlow, PyTorch, Scikit-learn, XGBoost, Hugging Face
-LLMs: OpenAI, Azure OpenAI, Claude, Bedrock, Gemini, Llama
-Frameworks: LangChain, LangGraph, LlamaIndex, FastAPI, Spring Boot, React.js
-Data: Spark, PySpark, Kafka, Flink, Airflow, dbt, Databricks
-Cloud: AWS, Azure, GCP
-Storage: BigQuery, Snowflake, Redshift, PostgreSQL, MongoDB, DynamoDB
-Vector DBs: Pinecone, Milvus, FAISS, ChromaDB
-DevOps: Docker, Kubernetes, Terraform, GitHub Actions, Jenkins
-Monitoring: Prometheus, Grafana, OpenTelemetry, Langfuse, Ragas
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:sanjaychandamala93@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ “Building scalable AI systems that transform enterprise data into intelligent business impact.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
+</div>
