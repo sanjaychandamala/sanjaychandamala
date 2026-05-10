@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=sanjaychandamala&theme=algolia&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -147,6 +147,21 @@
 
 ---
 
+## 🗄️ Databases & Vector Stores
+
+<p align="left">
+
+![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=redis)
+![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/-FAISS-black?style=for-the-badge)
+
+</p>
+
+---
+
 # 🏥 Featured Enterprise AI Work
 
 ## 🧬 Clinical Generative AI Knowledge Platform
@@ -190,13 +205,13 @@ Built an enterprise healthcare AI platform using:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjaychandamala&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaychandamala&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaychandamala&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -206,11 +221,11 @@ Built an enterprise healthcare AI platform using:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:sanjaychandamala93@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/sanjaychandamala)
 
 </div>
 
