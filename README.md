@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hi, I'm Sanjay Chandamala 👋
+# Hi, I'm Sanjay Chandamala 👋
 
 ### Senior Gen AI / ML Engineer • Data Scientist • Cloud AI Engineer
 
