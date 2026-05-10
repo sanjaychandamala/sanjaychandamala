@@ -202,25 +202,25 @@ Built an enterprise healthcare AI platform using:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/chandamala-sanjay-reddy-ba3b8932/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" width="420"/>
 </a>
 
-<br/><br/>
+<br>
 
 <a href="mailto:sanjaychandamala93@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sanjaychandamala93%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Gmail-sanjaychandamala93%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" width="420"/>
 </a>
 
-<br/><br/>
+<br>
 
 <a href="tel:4696079952">
-  <img src="https://img.shields.io/badge/Phone-4696079952-34A853?style=for-the-badge&logo=googlemessages&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Phone-4696079952-34A853?style=for-the-badge&logo=googlemessages&logoColor=white&labelColor=000000" width="420"/>
 </a>
 
-<br/><br/>
+<br>
 
 <a href="https://github.com/sanjaychandamala">
-  <img src="https://img.shields.io/badge/GitHub-sanjaychandamala-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/GitHub-sanjaychandamala-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="420"/>
 </a>
 
 </div>
