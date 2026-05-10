@@ -201,13 +201,27 @@ Built an enterprise healthcare AI platform using:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandamala-sanjay-reddy-ba3b8932/)
+<a href="https://www.linkedin.com/in/chandamala-sanjay-reddy-ba3b8932/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-sanjaychandamala93%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sanjaychandamala93@gmail.com)
+<br/><br/>
 
-[![Phone](https://img.shields.io/badge/Phone-4696079952-success?style=for-the-badge&logo=googlemessages)](tel:4696079952)
+<a href="mailto:sanjaychandamala93@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sanjaychandamala93%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sanjaychandamala-black?style=for-the-badge&logo=github)](https://github.com/sanjaychandamala)
+<br/><br/>
+
+<a href="tel:4696079952">
+  <img src="https://img.shields.io/badge/Phone-4696079952-34A853?style=for-the-badge&logo=googlemessages&logoColor=white&labelColor=000000" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sanjaychandamala">
+  <img src="https://img.shields.io/badge/GitHub-sanjaychandamala-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
 
 </div>
 
